@@ -1,7 +1,10 @@
-<!-- Animação de boas-vindas com nome e título -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=F5F5F5&center=true&vCenter=true&width=800&lines=AXEL+FILLE+-+CIENTISTA+DE+DADOS+EM+FORMAÇÃO;BEM-VINDO+AO+MEU+GITHUB!;TECNOLOGIA+COM+PROPÓSITO+E+VISÃO" alt="Typing SVG" />
+  <strong><span style="color:#ffffff; font-size:40px;">AXEL FILLE — CIENTISTA DE DADOS EM FORMAÇÃO</span></strong>
 </h1>
+<p align="center">
+  <strong><span style="color:#f5f5f5; font-size:18px;">BEM-VINDO AO MEU GITHUB | TECNOLOGIA COM PROPÓSITO</span></strong>
+</p>
+
 
 ---
 
