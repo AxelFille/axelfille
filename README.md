@@ -17,7 +17,7 @@
 <h2 align="center">🧠 SOBRE MIM</h2>
 
 <p align="center">
-Sou Axel Fille: ex-militar da Aviação do Exército com 8 anos de experiência, médico veterinário e estudante de <strong>Ciência de Dados</strong>.<br>
+Ex-militar da Aviação do Exército com 8 anos de experiência, médico veterinário anestesista e estudante de <strong>Ciência de Dados</strong>.<br>
 Atualmente em transição de carreira para a área de TI, focado em <strong>projetos com propósito, inovação e impacto social</strong>.<br>
 Dedico minha energia ao aprendizado constante, ao meu filho autista e à construção de um futuro com liberdade e significado.
 </p>
